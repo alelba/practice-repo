@@ -1,27 +1,29 @@
-## First Name Last Name
+## Alexis Baugher
 
-### Term Year 
+### Spring 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- COP2073: Intro to Data Science
 
-- Course 2
+- EGN3448: Operations Research
 
-- Course 3
+- IDS4941: Internship
 
-- Course 4
+- HIM3514: Health Systems Modeling and Optimization
 
-**Hobbies:**
+- IDC4943: Capstone II
+
+**Hobbies:** Traveling, video games, reading, cooking, baking, shopping, watching documentaries.
 
 I am _passionate about_: 
 
-- Thing 1
+- Science
 
-- Thing 2
+- The Ocean
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Social Justice, as shown in this website <https://www.aclu.org/>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/29
